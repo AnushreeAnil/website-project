@@ -11,7 +11,7 @@ header {
   background-position: center;  /* centers the image */
   background-repeat: no-repeat; /* prevents repeating */
   color: white;
-  padding: 60px 20px;           /* adds space inside the header */
+  padding: 10px 10px;           /* adds space inside the header */
   text-align: center;
 }
 nav {
@@ -45,7 +45,7 @@ footer {
 }
 img {
   max-width: 300px;
-  height: auto;
+  height: 400px;
   border-radius: 30px;
   margin-top: 10px;
 }
