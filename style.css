@@ -11,7 +11,7 @@ header {
   background-position: center;  /* centers the image */
   background-repeat: no-repeat; /* prevents repeating */
   color: white;
-  padding: 0px 0px;           /* adds space inside the header */
+  padding: 60px 0px;           /* adds space inside the header */
   text-align: center;
 }
 nav {
