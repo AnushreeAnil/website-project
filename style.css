@@ -6,7 +6,7 @@ body {
   padding: 0;
 }
 header {
-  background-image: url("images/header.jpg"); /* path to your image */
+  background-image: url("images/cyber1.jpg"); /* path to your image */
   background-size: cover;       /* makes the image cover the entire header */
   background-position: center;  /* centers the image */
   background-repeat: no-repeat; /* prevents repeating */
